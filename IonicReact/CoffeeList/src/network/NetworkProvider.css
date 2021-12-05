@@ -1,0 +1,8 @@
+.toast-custom-class {
+    --color:#ffffff;
+    --border-color:#000000;
+    --border-radius:5px;
+    --border-width:1px;    
+    --background:#274a58;
+    --button-color:#ffffff;
+}

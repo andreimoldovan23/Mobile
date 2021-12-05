@@ -1,0 +1,13 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CoffeeList",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {}
+}
